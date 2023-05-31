@@ -85,7 +85,8 @@ const Footer = () => {
           </div>
           <div className='legal connect py'>
             <div className='text'>
-              <span>© 2023 THE SEVEN. ALL RIGHTS RESERVED.</span>
+              <span>© 2023 THE SEVEN. DEVELOPED BY <a href="https://sosamson.com" target = "_blank" 
+rel = "noopener noreferrer">SAMSON SANYAOLU</a> ALL RIGHTS RESERVED.</span>
             </div>
             <div className='connect'>
               <span>GORKCODER COMPANY</span>
